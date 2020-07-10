@@ -1,4 +1,4 @@
-## Spring Boot Testing - This works like magic
+## Spring Boot Testing - This works like magic - cool
 
 This module contains articles about Spring Boot testing
 
